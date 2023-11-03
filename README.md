@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TCGenius
 - 👀 I’m interested in learn a lot of new technologies so I can lead teams and teach in a way that people enjoy their job and have fun while learning.
-- 🌱 I’m currently learning Javascript, React.js, Node.js.
+- 🌱 I'm currently working exclusively in Next.js, trying to learn more and more.
 - 📫 How to reach me: alvarez.andres.g@gmail.com
 
 <!---
